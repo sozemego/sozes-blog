@@ -18,7 +18,7 @@ game dev commercially and abandon my day job.
 
 Here are some of the technologies/languages/buzz words I use for game development (and at work):
 
-Java, Java, React, Angular, Spring, JBoss, Linux, Windows,
+Java, Java, React, Redux, xState, Angular, Spring, JBoss, Linux, Windows,
 threejs, react-three-fiber, libgdx, gatsby (this blog).
 
 <b>Why does this blog exist?</b>
